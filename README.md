@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jorge Morejon
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Made a really cool pohoto gallery application so that users can scroll through pictures
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. createElement() which creates new element nodes
+2. appendChild() which allows for the created element to be attached to the DOM tree
+3. cloneNode() which is used to make a clone of a node
